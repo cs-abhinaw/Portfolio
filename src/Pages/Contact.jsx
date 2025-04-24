@@ -4,6 +4,7 @@ function Contact() {
   const containeStyle = {
     padding: '49px',
     maxWidth: '600px',
+    // backgroundImage: "url(https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg)",
     margin: '0 auto',
     textAlign: 'center',
     backgroundColor: '#fefefe',

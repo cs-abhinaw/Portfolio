@@ -1,8 +1,10 @@
 function Projects() {
   const containerStyle = {
     padding: '90px',
-    backgroundColor: '#f9f9f9',
-    minHeight: '80vh'
+    // backgroundColor: '#f9f9f9',
+    minHeight: '80vh',
+
+
   };
 
   const headingStyle = {

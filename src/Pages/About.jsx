@@ -2,8 +2,9 @@ function About() {
   const containerStyle = {
     padding: "110px 20px",
     textAlign: "center",
-    backgroundColor: "#f0f8ff",
+    // backgroundColor: "#f0f8ff",
     minHeight: "80vh",
+   
   };
 
   const headingStyle = {
